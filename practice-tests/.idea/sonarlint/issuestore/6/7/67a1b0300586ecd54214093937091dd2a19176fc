@@ -1,0 +1,13 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "s2".(™ÈèÖùÿÿÿÿ
+S
+java:S1854"6Remove this useless assignment to local variable "s1".(Äì¤Ä8µŞø”0
+D
+java:S1481"'Remove this unused "s1" local variable.(Äì¤Ä8·Şø”0
+I
+java:S1481"'Remove this unused "s2" local variable.(™ÈèÖùÿÿÿÿ8¸Şø”0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(û–Ò’ıÿÿÿÿ8û‘ø”0
+W
+java:S2209"5Change this instance-reference to a static reference.(û–Ò’ıÿÿÿÿ8±ñ‘ø”0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×“Òã8ò›’ø”0

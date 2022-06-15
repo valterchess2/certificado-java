@@ -1,0 +1,6 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8­î¸÷”0
+y
+java:S2737	"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(¤­—Îşÿÿÿÿ8Õñ¹÷”0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Šşİ›ûÿÿÿÿ8¡®¸÷”0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯­¾8•Àº÷”0

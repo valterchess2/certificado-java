@@ -1,0 +1,7 @@
+
+m	java:S127	"XRefactor the code in order to not assign to this loop counter from within the loop body.(÷ªÎÖ
+¤
+java:S2681	"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(÷ªÎÖ8ù»ø”0
+L
+java:S1994	"6Move the update of "x" into this loop's update clause.(÷ªÎÖ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(÷ªÎÖ

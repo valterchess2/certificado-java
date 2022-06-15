@@ -1,0 +1,8 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "i".(‡§»Æüÿÿÿÿ8óº–ù”0
+H
+java:S1481"&Remove this unused "i" local variable.(¾Øàéüÿÿÿÿ8ôº–ù”0
+]	java:S125	"<This block of commented-out lines of code should be removed.(Œ±¦—ùÿÿÿÿ8öº–ù”0
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(ÕÔëí
